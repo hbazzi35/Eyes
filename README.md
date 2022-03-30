@@ -1,11 +1,11 @@
-# PacMan
-A demonstration of PacMan being simply animated to go back and fourth and open and close his mouth.
+# Eyes
+A demonstration of a set of eyes following your arrow around the screen.
 ## Description
-With the use of array's and a few functions, you can see PacMan go across the screen as he opens and closes his mouth before hitting the end of the screen and turning around and continuing to open and close his mouth.
+This is a simple project that animates a set of eyes to follow your arrow around the screen. These eyes do belong to a nice red dog.
 ### How To Use
-It's easy. Simply open the Index.html file in your browser and sit and back and watch PacMan go back and fourth endlessly.
+It's easy. Simply open the Index.html file in your browser and move your arrow around to see the dog's eyes follow the arrow
 ## Future Improvements 
-I'd like to revisit this project and turn this into a fully functioning PacMan replica. 
+I'd like to revisit this project and add a moving tongue on the dog to make it a little more animated.
 ## License
 This Project is licensed under the MIT License. Please see the LICENSE.md file for more details.
  
